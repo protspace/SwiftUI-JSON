@@ -1,0 +1,21 @@
+{
+    "type": "table",
+    "rows": [
+        {
+            "type": "row",
+            "title": "title1",
+            "subtitle": "subtitle1"
+        },
+        {
+            "type": "row",
+            "title": "title2",
+            "subtitle": "subtitle2"
+        },
+        {
+            "type": "row",
+            "title": "title3",
+            "subtitle": "subtitle3"
+        }
+    ]
+
+}
